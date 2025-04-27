@@ -1,4 +1,5 @@
-<h1>Hi 👋 My name is Serhat</h1>
+Hi 👋 My name is Serhat
+=============================
 <h3>Electrical & Electronics Engineer</h3>
 
 ---
@@ -11,10 +12,10 @@ I actively use programming languages ​​such as Python, C and C++; I develop 
 
 In line with my interest in robotic technologies, I aim to continuously improve my knowledge and skills in this field. I am highly motivated to collaborate with people who share the same passion and I continue to use my technical expertise to produce innovative and effective solutions.
 
-    🌍 I'm based in Izmir, Turkey
-    ✉️ You can contact me at serhatbozglu@gmail.com
-    🚀 I'm currently studying at Manisa Celal Bayar University
-
+* 🌍 I'm based in Izmir, Turkey
+* ✉️ You can contact me at [serhatbozglu@gmail.com](mailto:serhatbozglu@gmail.com)
+* 🚀 I'm currently studying at Manisa Celal Bayar University
+   
 ---
 
 ### 🌐 Connect with Me
